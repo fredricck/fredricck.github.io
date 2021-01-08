@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fredricck.github.io</id>
+    <title>hwlv</title>
+    <updated>2021-01-08T13:03:02.927Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fredricck.github.io"/>
+    <link rel="self" href="https://fredricck.github.io/atom.xml"/>
+    <subtitle>we can reach every corner in the world.</subtitle>
+    <logo>https://fredricck.github.io/images/avatar.png</logo>
+    <icon>https://fredricck.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, hwlv</rights>
+    <entry>
+        <title type="html"><![CDATA[学习双拼]]></title>
+        <id>https://fredricck.github.io/xue-xi-shuang-pin/</id>
+        <link href="https://fredricck.github.io/xue-xi-shuang-pin/">
+        </link>
+        <updated>2021-01-08T12:48:20.000Z</updated>
+        <content type="html"><![CDATA[<p>首先这篇文章是用五笔输入法写出来的。</p>
+<h3 id="契机">契机</h3>
+<p>在大学的时候英语考试全部是上机考试，由于打字速度基本属于“一指禅”，所以最后在写作文的时候经常会很赶时间。看宿舍的同学打游戏聊天时全部是盲打。有一阵子很羡慕有很快的打字速度。</p>
+<p>后面就决定学习五笔输入法。在宿舍看五笔的规则同时在网页上练习五笔输入法，大概一周左右基本就学会了五笔输入法，也很熟练地掌握了各个键位的布置。后面的一段时间输入法就变成了五笔拼音混合输入。为此还折腾了各家的输入法，最后找到了rime。慢慢地时间长了之后，将输入法又换成了纯五笔输入法。自从学会了五笔输入法，不管是中文还是英文，打字速度比之前都提高了很多。不自觉地会感叹五笔输入法真的很好用。</p>
+<h3 id="双拼">双拼</h3>
+<p>最近在使用telegram中，有看到群组里的人在讲手机用双拼输入法比全拼输入法快很多。因为会五笔输入法，先是在手机上尝试了五笔输入法，但是很不适应，一直没有在电脑上敲击时的流畅感。所以决定学习双拼输入法。</p>
+<p>练习的是小鹤双拼输入法。下面是小鹤双拼输入法的口诀：</p>
+<blockquote>
+<p>月亮快坠下地面，鸟带走杭云，偶瞥风秋树缤纷，苇草更松软。</p>
+</blockquote>
+<p>刚开始练习的时候，很不习惯。在跟别人聊天的时候，会忍不住切换为全拼输入法。双拼输入法的规则并没有五笔输入法来的有规律，只能牢牢地背口诀之后，多练习。后来在打字的过程中，还是学会了双拼输入法。</p>
+<p>再一次感叹，在手机上打字也可以很快，很有节奏。离不开了。</p>
+]]></content>
+    </entry>
+</feed>
