@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fredricck.github.io</id>
     <title>hwlv</title>
-    <updated>2021-01-08T13:03:38.628Z</updated>
+    <updated>2021-01-15T14:18:36.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fredricck.github.io"/>
     <link rel="self" href="https://fredricck.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://fredricck.github.io/images/avatar.png</logo>
     <icon>https://fredricck.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, hwlv</rights>
+    <entry>
+        <title type="html"><![CDATA[疫情]]></title>
+        <id>https://fredricck.github.io/yi-qing/</id>
+        <link href="https://fredricck.github.io/yi-qing/">
+        </link>
+        <updated>2021-01-15T14:16:08.000Z</updated>
+        <content type="html"><![CDATA[<p>2020年发生的疫情，2021年还在持续的对我施加影响。</p>
+<p>今年春节存在着某种可能性，或者无法回家，或者回家要隔离14天。</p>
+<p>在成都出行必须要戴口罩展示健康码，进出小区也要展示健康码，否则连小区都不能离开。保安却只在白天能做到要求展示健康码，进行体温测量。晚上进出小区却毫无阻碍。</p>
+<p>今天家人群里在说，一斤鸡蛋的价格已经涨到6元了。白菜的价格也上涨了。</p>
+<p>或许今年没有什么是没有涨价的，除了我的工资。</p>
+<p>同时贯穿一整年的还有新闻里经常提到国外的一些国家疫情感染人数持续不断的突破新高，如同今年的股市一般。</p>
+<p>很希望疫情结束，可以自由的出行，自由的吃饭，唱歌。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习双拼]]></title>
         <id>https://fredricck.github.io/xue-xi-shuang-pin/</id>
